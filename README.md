@@ -1,2 +1,2 @@
 # VIVID-tasks
-Tasks given out everyday in VIVID Cipher team
+ https://jvincent3.github.io/VIVID-tasks/
