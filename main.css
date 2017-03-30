@@ -1,6 +1,8 @@
 body{
 margin:0;
-font-family
+font-family:Arial, Helvetica, sans-serif;
+color:white;
+
 }
 
 .container {
@@ -14,16 +16,25 @@ font-family
 input {
 	border-radius:20px;
 	padding-left:10px;
+	margin:15px 0;
 }
 select { 
 	border-radius:20px;
  }
+ label{
+ 	margin-left: 5px;
+ }
  button {
  	border-radius:20px;
- 	background-color:#0070ba;
-
+ 	background-color:#4B0082;
+ 	color:white;
  	height:50px;
  	width:200px;
  	margin-right:auto;
  	margin-left:100px;
+ 	font-weight:bold;
+ 	
+ }
+ button:hover {
+ 	background-color:#8A2BE2;
  }
